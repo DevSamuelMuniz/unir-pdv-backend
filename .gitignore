@@ -52,7 +52,8 @@ web_modules/
 .npm
 
 # Optional eslint cache
-.eslintcache
+.eslintcache.env
+
 
 # Optional stylelint cache
 .stylelintcache
